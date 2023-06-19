@@ -1,0 +1,6 @@
+pyyaml
+openai
+python-dotenv
+nicegui
+sqlalchemy
+langchain
